@@ -1,0 +1,5 @@
+export const LOGIN_REQUESTING= "LOGIN_REQUESTING";
+export const LOGIN_SUCCESS="LOGIN_SUCCESS";
+export const LOGIN_FAILURE="LOGIN_FAILURE";
+export const ORG_UNSET = "ORG_UNSET";
+export const ORG_SET = "ORG_SET";
